@@ -176,8 +176,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⭐ Support
 
-
-If you found this useful, please ⭐ star the repository!
----
